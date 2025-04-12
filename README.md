@@ -1,185 +1,37 @@
 # 🛣️ Roadmap to rtCamp
 
-A personal roadmap and tracker for my preparation towards cracking the rtCamp interview. This repository documents my learning journey through projects, study topics, and curated resources.
+This repository tracks my journey to prepare for the rtCamp interview. It includes the list of projects I'm building, the topics I'm learning, resources I’m collecting, and my personal notes.
 
-## ✨ Vision
+## 📂 Repo Structure
 
-To become a well-rounded full-stack developer with expertise in WordPress development and modern web technologies, ready to contribute meaningfully at rtCamp.
+- [`projects.md`](./projects.md): List of projects with status, type, and links.
+- [`study-topics.md`](./study-topics.md): Topics I’m learning, organized by area (frontend, backend, WordPress, etc).
+- [`resources.md`](./resources.md): Curated links to articles, documentation, and learning materials.
+- [`notes/`](./notes/): Detailed notes categorized by topic.
+- [`cheatsheets/`](./cheatsheets/): Quick reference for tools, languages, and libraries.
 
-## ✅ Goals & Milestones
+## 🎯 Goals
 
-- [ ] Complete 50+ GitHub repositories
-- [ ] Build 20 full-stack web projects
-- [ ] Create 5-10 UI-focused frontend projects
-- [ ] Master core backend technologies
-- [ ] Deploy a portfolio of showcase projects
-- [ ] Achieve proficiency in WordPress ecosystem
-- [ ] Contribute to open source projects
+- [ ] Build 50+ GitHub repositories
+- [ ] Create 20 full-stack projects
+- [ ] Learn key backend & frontend technologies
+- [ ] Prepare confidently for rtCamp's tech stack and workflow
+- [ ] Organize all knowledge into reusable notes
 
-## 🚧 Project Tracker
+## 🛠️ Technologies I'm focusing on
 
-| Project        | Type       | Tech Stack      | Status         | Link      |
-| -------------- | ---------- | --------------- | -------------- | --------- |
-| Portfolio Site | Frontend   | React, Tailwind | 🟡 In Progress | [Repo](#) |
-| Learn Auth     | Learning   | Node.js, JWT    | 🟢 Completed   | [Repo](#) |
-| Blogify        | Full Stack | MERN Stack      | 🔴 Not Started | [Repo](#) |
-| eCommerce Hub  | Full Stack | Next.js, Prisma | 🔴 Not Started | [Repo](#) |
-| WP Theme       | WordPress  | PHP, Gutenberg  | 🔴 Not Started | [Repo](#) |
-
-**Legend:** 🟢 Completed &nbsp; 🟡 In Progress &nbsp; 🔴 Not Started
-
-## 📚 Learning Roadmap
-
-### Frontend Development
-
-- **Core Technologies**
-
-  - ✅ HTML5 & Semantic Markup
-  - ✅ CSS3 & Modern Layout (Grid/Flexbox)
-  - ✅ JavaScript (ES6+)
-  - ✅ TypeScript
-
-- **Frameworks & Libraries**
-  - ✅ React.js
-    - Hooks & Custom Hooks
-    - Context API
-    - React Router
-    - State Management
-  - ✅ Tailwind CSS
-  - Next.js
-  - Testing (Jest, React Testing Library)
-
-### Backend Development
-
-- **Core Technologies**
-
-  - ✅ Node.js & Express.js
-  - ✅ RESTful APIs
-  - ✅ GraphQL
-  - Database Design
-
-- **Database & ORM**
-
-  - ✅ PostgreSQL
-  - ✅ Prisma ORM
-  - MongoDB
-
-- **Authentication & Security**
-  - ✅ JWT Implementation
-  - ✅ OAuth 2.0
-  - Password Hashing
-  - CORS & Security Headers
-
-### WordPress & PHP
-
-- **PHP Development**
-
-  - PHP 7+ Features
-  - OOP in PHP
-  - PSR Standards
-  - Composer
-
-- **WordPress Core**
-  - Theme Development
-  - Plugin Development
-  - WP REST API
-  - WP-CLI
-  - Gutenberg Blocks
-  - Custom Post Types
-
-### DevOps & Tools
-
-- **Version Control**
-
-  - ✅ Git Advanced
-  - ✅ GitHub Workflow
-
-- **CI/CD & Deployment**
-  - ✅ GitHub Actions
-  - Docker
-  - Kubernetes Basics
-  - ✅ Cloud Platforms (Vercel, Netlify)
-
-## 🔧 Technical Skills Checklist
-
-### Must-Have Skills
-
-- [ ] Modern JavaScript & TypeScript
-- [ ] React.js Ecosystem
-- [ ] Node.js Backend Development
-- [ ] Database Management
-- [ ] WordPress Development
-- [ ] Version Control & Git
-- [ ] API Development
-- [ ] Testing & Debugging
-- [ ] Performance Optimization
-- [ ] Security Best Practices
-
-### Good-to-Have Skills
-
-- [ ] Cloud Services (AWS/GCP)
-- [ ] CI/CD Pipelines
-- [ ] Container Orchestration
-- [ ] Microservices Architecture
-- [ ] Technical Writing
-- [ ] Open Source Contribution
-
-## 📚 Learning Resources
-
-### Official Documentation
-
-- [React Documentation](https://react.dev)
-- [Node.js Docs](https://nodejs.org/docs)
-- [WordPress Developer Resources](https://developer.wordpress.org)
-- [PHP Manual](https://www.php.net/manual)
-- [Prisma Documentation](https://www.prisma.io/docs)
-
-### Recommended Reading
-
-- [JavaScript.info](https://javascript.info)
-- [PHP The Right Way](https://phptherightway.com)
-- [rtCamp Engineering Handbook](https://handbook.rtcamp.com)
-- [Full Stack Open](https://fullstackopen.com)
-
-### Tools & References
-
-- [Can I Use](https://caniuse.com)
-- [DevDocs](https://devdocs.io)
-- [MDN Web Docs](https://developer.mozilla.org)
-
-## 📝 Notes & Cheatsheets
-
-- [React Best Practices](notes/react.md)
-- [Database Design Patterns](notes/database.md)
-- [Git Commands Cheatsheet](cheatsheets/git.md)
-- [WordPress Development Notes](notes/wordpress.md)
-
-## 📈 Progress Tracking
-
-### Weekly Goals
-
-- Week 1: Project Setup & Planning
-- Week 2: Core JavaScript & React
-- Week 3: Backend Development
-- Week 4: WordPress Fundamentals
-
-### Monthly Reviews
-
-- [ ] Technical Skills Assessment
-- [ ] Project Completion Rate
-- [ ] Learning Goals Progress
-- [ ] Portfolio Updates
-
-## 🤝 Contributing
-
-Feel free to suggest improvements or share resources by opening an issue or PR!
-
-## 📄 License
-
-This roadmap is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- Prisma / PostgreSQL
+- Docker
+- PHP / WordPress
+- Tailwind CSS
+- CI/CD with GitHub Actions
 
 ---
 
-_Last Updated: [Current Date]_
+### 🔗 Connect With Me
 
-_Inspired by the rtCamp culture of continuous learning and excellence in web development._
+Feel free to check out my [portfolio]() or connect on [LinkedIn]()!
+
